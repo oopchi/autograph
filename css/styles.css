@@ -2,5 +2,24 @@
   margin: 0;
 }
 .top-container {
-    background-color :#e4f9f5;
+  width: 200px;
+  height: 200px;
+  background-color :#e4f9f5;
+  border: 10px solid black;
+  padding: 20px;
+
+}
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 20px solid black;
+  margin-left: 260px;
+}
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  border: 10px solid black;
+  margin-left: 500px;
 }
