@@ -37,6 +37,7 @@
 .programming {
   width: 200px;
   float: left;
+  margin-right: 30px;
 }
 .round {
   border-radius: 100%;
